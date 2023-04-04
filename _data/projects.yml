@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# manhattan crime analysis
+- project: Manhattan Crime Analysis
+  # role: Founder & Primary Developer
+  duration: Mar 2023
+  url: "https://www.kaggle.com/code/alperkent/manhattan-crime-analysis/notebook"
+  description: Exploring and visualizing NYPD crime data with Python <ul class="resume-item-list"><li>Collected, cleaned, and merged 7.8 million rows of data from independent sources and formats using Pandas</li><li>Performed exploratory data analysis to discover age, gender, location, and time-based crime statistics</li><li>Built advanced data visualizations & interactive maps using Seaborn and Folium to display local crime rates</li></ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# kickstarter campaign analysis
+- project: Kickstarter Campaign Analysis
+  # role: Co-Founder & Organizer
+  duration: Jan 2023
+  url: "https://github.com/alperkent/kickstarter"
+  description: Analyzing Kickstarter data for maximizing funding of a board game campaign <ul class="resume-item-list"><li>Employed MySQL for exploration and Python (Pandas, Seaborn, Matplotlib, & SciPy) for analysis & visualization</li><li>Applied t-tests for hypothesis testing to illustrate key insights and trends in the data</li><li>Made three data-driven, specific, and actionable recommendations to maximize funding</li></ul>
