@@ -58,8 +58,8 @@
 
         {% for job in site.data.experience %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+          <h3 class="resume-item-title" itemprop="name">{{ job.position }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ job.company }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
         </div><!-- end of resume-item -->
         {% endfor %}
@@ -232,7 +232,7 @@
       {% endif %}
 
       <footer class="page-footer">
-        <p class="footer-line">© 2023 · Made with ❤ by <a href="https://alperkent.github.io/">Alp Erkent</a>.</p>
+        <p class="footer-line">© 2023 · Made with <span style="color: #ff0000">❤</span> by <a href="https://alperkent.github.io/">Alp Erkent</a>.</p>
       </footer>
 
     </div>
