@@ -1,12 +1,16 @@
 # Skills
-# Organizational leadership
+# Tech skills
 - skill: Tech skills
   description: Python (NumPy, Matplotlib, Seaborn, scikit-learn, SciPy, Pandas, PyTorch, TensorFlow, Keras), SQL, Tableau, SPSS, Stata, Java, Git, MS Office (Word, Excel, PowerPoint)
 
-# Communications strategy
+# Analytical skills
 - skill: Analytical skills
   description: A/B testing, regression, classification, clustering, decision trees, deep learning
 
-# Digital content development and creation
+# Soft skills
 - skill: Soft skills
   description: Critical thinking, problem solving, attention to detail, collaboration, effective communication
+
+# Languages
+- skill: Languages
+  description: English (fluent), Turkish (native), German (beginner)

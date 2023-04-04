@@ -10,7 +10,7 @@
 
 # kickstarter campaign analysis
 - project: Kickstarter Campaign Analysis
-  role: Analyzing Kickstarter data for maximizing funding of a board game campaign 
+  role: Maximizing funding of a board game campaign 
   duration: Jan 2023
   url: "https://github.com/alperkent/kickstarter"
   description: <ul class="resume-item-list"><li>Employed MySQL for exploration and Python (Pandas, Seaborn, Matplotlib, & SciPy) for analysis & visualization</li><li>Applied t-tests for hypothesis testing to illustrate key insights and trends in the data</li><li>Made three data-driven, specific, and actionable recommendations to maximize funding</li></ul>
