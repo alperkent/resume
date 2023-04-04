@@ -1,10 +1,10 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Data Scientist Associate
+  organization: DataCamp
+  year: 2023,
+  summary: Entry-level skills in data management, exploratory analysis, statistical experimentation, model development, and coding using Python.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+# - award: Most Likely To Succeed
+#   organization: Springfield High School
+#   year: 2004
+#   summary: Voted Most Likely To Succeed by a panel of my high school peers.

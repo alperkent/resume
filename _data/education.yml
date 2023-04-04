@@ -4,7 +4,7 @@
   uni: Bogazici University, Istanbul
   year: 2019 &mdash; 2022
   # award: 
-  summary: <ul class="resume-item-list"><li>Concentration on psychology & computer science, instruction in English, GPA: 3.90/4</li><li>Relevant courses: Machine Learning, Pattern Recognition, Deep Learning, Advanced Research Methods I & II</li></ul>
+  summary: <ul class="resume-item-list"><li>Concentration on psychology & computer science, instruction in English, GPA{{':'}} 3.90/4</li><li>Relevant courses{{':'}} Machine Learning, Pattern Recognition, Deep Learning, Advanced Research Methods I & II</li></ul>
 
 
 - degree: Doctor of Medicine
@@ -12,4 +12,4 @@
   year: 2012 &mdash; 2018
   # awards:
     # - award: 
-  summary: <ul class="resume-item-list"><li>Scholarship + tuition waiver (~$180,000 USD), magna cum laude, instruction in English, GPA: 3.63/4</li><li>  Ranked within 0.1% among 1,900,000 high school graduates in nationwide university placement examination</li></ul>
+  summary: <ul class="resume-item-list"><li>Scholarship + tuition waiver (~$180,000 USD), magna cum laude, instruction in English, GPA{{':'}} 3.63/4</li><li>  Ranked within 0.1% among 1,900,000 high school graduates in nationwide university placement examination</li></ul>
