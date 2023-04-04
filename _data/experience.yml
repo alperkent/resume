@@ -1,19 +1,19 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Research Scientist
+- company: Vision Lab + CoLoRs Lab, Istanbul
+  position: Research Scientist
+  duration: Sep 2020 &mdash; Apr 2023
+  summary: <ul class="resume-item-list"><li>Led a grant-funded study on body perception, where I singlehandedly conducted literature review, experimental design, data analysis, and dissemination of results</li><li>Supervised 5 PSY & CS students in software/hardware implementation, data collection and analysis of VR/behavioral experiments</li><li>Collected data from 70+ participants and applied t-test & ANOVA for hypothesis testing using SPSS, which led to discovery of the role of body perception in modifying motor processes in the brain</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Research Assistant - SMC
+- company: Stress, Mood & Cognition Lab, Istanbul
+  position: Research Assistant
+  duration:  Jan 2018 &mdash; Aug, 2019
+  summary: Conducted a meta-analysis with a group of 6 scientists, where my responsibilities included literature review and data processing, which established the role of depression in predicting memory problems
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Research Assistant - BCRT
+- company: Brain Cancer Research & Therapy Lab, Istanbul
+  position: Research Assistant
+  duration:   Feb 2013  &mdash; May, 2015
+  summary: Conducted gene expression analyses and wet lab work, which led to identification of a novel therapeutic target for brain cancer treatment
