@@ -6,11 +6,19 @@
   role: Exploring and visualizing NYPD crime data with Python 
   duration: Mar 2023
   url: "https://www.kaggle.com/code/alperkent/manhattan-crime-analysis/notebook"
-  description: <ul class="resume-item-list"><li>Collected, cleaned, and merged 7.8 million rows of data from independent sources and formats using Pandas</li><li>Performed exploratory data analysis to discover age, gender, location, and time-based crime statistics</li><li>Built advanced data visualizations & interactive maps using Seaborn and Folium to display local crime rates</li></ul>
+  description:  <ul class="resume-item-list">
+                <li>Collected, cleaned, and merged 7.8 million rows of data from independent sources and formats using Pandas</li>
+                <li>Performed exploratory data analysis to discover age, gender, location, and time-based crime statistics</li>
+                <li>Built advanced data visualizations & interactive maps using Seaborn and Folium to display local crime rates</li>
+                </ul>
 
 # kickstarter campaign analysis
 - project: Kickstarter Campaign Analysis
   role: Maximizing funding of a board game campaign 
   duration: Jan 2023
   url: "https://github.com/alperkent/kickstarter"
-  description: <ul class="resume-item-list"><li>Employed MySQL for exploration and Python (Pandas, Seaborn, Matplotlib, & SciPy) for analysis & visualization</li><li>Applied t-tests for hypothesis testing to illustrate key insights and trends in the data</li><li>Made three data-driven, specific, and actionable recommendations to maximize funding</li></ul>
+  description:  <ul class="resume-item-list">
+                <li>Employed MySQL for exploration and Python (Pandas, Seaborn, Matplotlib, & SciPy) for analysis & visualization</li>
+                <li>Applied t-tests for hypothesis testing to illustrate key insights and trends in the data</li>
+                <li>Made three data-driven, specific, and actionable recommendations to maximize funding</li>
+                </ul>

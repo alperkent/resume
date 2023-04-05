@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Alp Erkent"
-resume_title:                   "Data Scientist/Analyst"
+resume_title:                   "Data Scientist / Analyst"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "alp.erkent@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "10025 - New York, NY"
 resume_header_contact_info:     "New York, NY • 646-946-5244 • alp.erkent@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Data scientist and medical doctor with 7+ years of research/analytics experience. Passionate for generating data-driven solutions to improve healthcare services.</p><p>I have <b>employment authorization</b> and <u>do not require visa sponsorship</u>.</p>"
+resume_header_intro: "<p>Skilled data scientist and medical doctor with 7+ years of research/analytics experience. Passionate for generating data-driven solutions to improve healthcare services.</p><p>I have <b>employment authorization</b> and <u>do not require</u> visa sponsorship.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

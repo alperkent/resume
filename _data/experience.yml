@@ -3,23 +3,33 @@
 - company: Vision Lab + CoLoRs Lab, Istanbul
   position: Research Scientist
   duration: Sep 2020 &mdash; Apr 2023
-  summary: <ul class="resume-item-list"><li>Led a grant-funded study on body perception, where I singlehandedly conducted literature review, experimental design, data analysis, and dissemination of results</li><li>Supervised 5 PSY & CS students in software/hardware implementation, data collection and analysis of VR/behavioral experiments</li><li>Collected data from 70+ participants and applied t-test & ANOVA for hypothesis testing using SPSS, which led to discovery of the role of body perception in modifying motor processes in the brain</li></ul>
+  summary:  <ul class="resume-item-list">
+            <li>Led a grant-funded study on body perception, where I singlehandedly conducted literature review, experimental design, data analysis, and dissemination of results</li>
+            <li>Supervised 5 PSY & CS students in software/hardware implementation, data collection and analysis of VR/behavioral experiments</li>
+            <li>Collected data from 70+ participants and applied t-test & ANOVA for hypothesis testing using SPSS, which led to discovery of the role of body perception in modifying motor processes in the brain</li>
+            </ul>
 
 # Research Assistant - SMC
 - company: Stress, Mood & Cognition Lab, Istanbul
   position: Research Assistant
-  duration:  Jan 2018 &mdash; Aug 2019
-  summary: <ul class="resume-item-list"><li>Conducted a meta-analysis with a group of 6 scientists, where my responsibilities included literature review and data processing, which established the role of depression in predicting memory problems</li></ul>
+  duration: Jan 2018 &mdash; Aug 2019
+  summary:  <ul class="resume-item-list">
+            <li>Conducted a meta-analysis with a group of 6 scientists, where my responsibilities included literature review and data processing, which established the role of depression in predicting memory problems</li>
+            </ul>
 
 
 # Research Assistant - BCRT
 - company: Brain Cancer Research & Therapy Lab, Istanbul
   position: Research Assistant
-  duration:   Feb 2013  &mdash; May 2015
-  summary: <ul class="resume-item-list"><li>Conducted gene expression analyses and wet lab work, which led to identification of a novel therapeutic target for brain cancer treatment</li></ul>
+  duration: Feb 2013  &mdash; May 2015
+  summary:  <ul class="resume-item-list">
+            <li>Conducted gene expression analyses and wet lab work, which led to identification of a novel therapeutic target for brain cancer treatment</li>
+            </ul>
 
 # Intern - SN
 - company: Shigekazu Nagata Lab, Kyoto
   position: Intern
-  duration:   Jul 2014  &mdash; Aug 2014
-  summary: <ul class="resume-item-list"><li>Conducted wet lab work, which led to identification of a novel enzyme responsible for programmed cell death</li></ul>
+  duration: Jul 2014  &mdash; Aug 2014
+  summary:  <ul class="resume-item-list">
+            <li>Conducted wet lab work, which led to identification of a novel enzyme responsible for programmed cell death</li>
+            </ul>

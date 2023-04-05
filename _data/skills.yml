@@ -1,15 +1,21 @@
 # Skills
 # Tech skills
-- skill: Tech skills
+- skill: Tools and software
   description: Python (NumPy, Matplotlib, Seaborn, scikit-learn, SciPy, Pandas, PyTorch, TensorFlow, Keras), SQL, Tableau, SPSS, Stata, Java, Git, MS Office (Word, Excel, PowerPoint)
 
 # Analytical skills
-- skill: Analytical skills
+- skill: Analytics
   description: A/B testing, regression, classification, clustering, decision trees, deep learning
 
 # Soft skills
 - skill: Soft skills
-  description: Critical thinking, problem solving, attention to detail, collaboration, effective communication
+  description:  <ul class="resume-item-list">
+                <li>Dynamic presenter and effective communicator with the ability to extract key insights from complex data.</li>
+                <li>Enthusiastic and friendly team player who can motivate colleagues and contribute to shared objectives in efforts to accomplish organizational goals.</li>
+                <li>Experienced in analyzing complex situations, evaluating multiple perspectives, and making informed decisions to drive successful outcomes.</li>
+                <li>Skilled in identifying and addressing challenges through creative thinking, resourcefulness, and effective communication to ensure timely and effective resolution.</li>
+                <li>Highly meticulous in executing tasks with precision, maintaining accuracy and consistency to deliver high-quality work that meets or exceeds expectations.</li>
+                </ul>
 
 # Languages
 - skill: Languages
